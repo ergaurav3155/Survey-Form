@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(74, 149, 174);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  width:100vw;
+  height:100vh;
+  text-align:center;
+  }
+  form{
+    border-radius:15px;
+    max-width:600px;
+    text-align:left;
+    padding:20px;
+    border:4px solid black;
+    border-radius:15px;
+  }
+  input{
+    padding:7px;
+    border-radius:6px
+  }
+  .input-element{
+   display:flex;
+   flex-diraction:column;
+    margin:25px
+  }
+  select{
+      padding:7px;
+    border-radius:7px;
+    border:none;
+  }
+  input[type="checkbox"]{
+    padding:10px;
+   width:15px;
+   height:15px;
+  }
